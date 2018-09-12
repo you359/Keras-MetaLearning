@@ -8,4 +8,4 @@
 [5] FaceNet: A Unified Embedding for Face Recognition and Clustering, 2015 [[paper]](https://arxiv.org/pdf/1503.03832.pdf) <br />
 [6] In Defense of the Triplet Loss for Person Re-Identification, 2017 [[paper]](https://arxiv.org/pdf/1703.07737.pdf) <br />
 [7] [Triplet Loss and Online Triplet Mining in TensorFlow](https://omoindrot.github.io/triplet-loss) <br />
-[8] []Ariel-Perez/triplet-net](https://github.com/Ariel-Perez/triplet-net)
+[8] [Ariel-Perez/triplet-net](https://github.com/Ariel-Perez/triplet-net)
